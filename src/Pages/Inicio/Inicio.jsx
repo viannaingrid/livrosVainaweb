@@ -17,7 +17,7 @@ export default function Inicio() {
             <section>
               <img
                 src={imagem1}
-                alt="Imagem ilustrando circulo social de 4 pessoas"
+                alt="Imagem ilustrando circulo social de 4 pessoas!"
               />
               <p>Imagem ilustrando circulo social de 4 pessoas</p>
             </section>
