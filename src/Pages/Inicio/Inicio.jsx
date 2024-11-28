@@ -4,6 +4,10 @@ import imagem2 from '../../assets/imagem2doacao.png';
 import imagem3 from '../../assets/imagem3doacao.png';
 import imagem4 from '../../assets/imagem4doacao.png';
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 export default function Inicio() {
   return (
     <main>
@@ -17,7 +21,11 @@ export default function Inicio() {
             <section>
               <img
                 src={imagem1}
+<<<<<<< HEAD
                 alt="Imagem ilustrando circulo social de 4 pessoas!"
+=======
+                alt="Imagem ilustrando circulo social de 4 pessoas"
+>>>>>>> origin/master
               />
               <p>Imagem ilustrando circulo social de 4 pessoas</p>
             </section>
