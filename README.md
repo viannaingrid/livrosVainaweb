@@ -26,8 +26,7 @@
         <li><strong>CSS3</strong>: Para estilização e design da aplicação.</li>
         <li><strong>JavaScript</strong>: Para funcionalidades interativas e manipulação do DOM.</li>
         <li>
-            <strong>Frameworks/Bibliotecas</strong> (se aplicável): 
-            [Inserir informações se for utilizado algo como React, Bootstrap etc.]
+            <strong>Frameworks/Bibliotecas</strong> : Construido com ReactJs
         </li>
     </ul>
 </div>
